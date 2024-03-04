@@ -1,0 +1,3 @@
+[submodule "tests/cargo-index-transit"]
+	path = tests/cargo-index-transit
+	url = https://github.com/jonhoo/cargo-index-transit.git
